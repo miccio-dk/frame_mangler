@@ -1,0 +1,11 @@
+.vscode
+data
+
+Face-Detection.py
+main.py
+Pipfile
+Pipfile.lock
+script.py
+test1\ 2.py
+test1.py
+visuals.zip
